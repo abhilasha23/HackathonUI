@@ -1,0 +1,14 @@
+{
+  "name": "ivlabs",
+  "version": "0.0.0",
+  "description": "IV Labs",
+  "main": "server.js",
+  "author": "Abhilasha",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.8.1"
+  }
+}
